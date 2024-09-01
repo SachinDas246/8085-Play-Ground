@@ -17,10 +17,9 @@ Basic actions:
 You can use this app to learn the basics of 8085 processor, and get familiar with programming via trainer kits. but if you are trying to learn concepts like interfacing with other devices, It might not be the best option. Also this app currently supports only hex code to write the programs and not mnemonics , which makes it hard to write long and complex programs,so in such cases use some other applications.
 
 ## Resources
-
-1. OPCODES TABLE OF INTEL 8085 : http://www.eazynotes.com/notes/microprocessor/notes/opcodes-table-of-intel-8085.pdf
-
-2. Example Programs : https://www.brcmcet.edu.in/downloads/files/n52206c7366081.pdf
+1. 8085 Manual : https://www.nj7p.info/Manuals/PDFs/Intel/205775-002.pdf   
+2. OPCODES TABLE OF INTEL 8085 : http://www.eazynotes.com/notes/microprocessor/notes/opcodes-table-of-intel-8085.pdf  
+3. Example Programs : https://www.brcmcet.edu.in/downloads/files/n52206c7366081.pdf  
 
 ## Have some issues?
 
