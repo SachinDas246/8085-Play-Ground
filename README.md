@@ -1,7 +1,7 @@
 # 8085 Playground
 Is an android app that helps you test out your 8085 skills. it is build to mimic real world 8085 trainer kit. 
 ## Download
-App Url (Google Play Store): https://play.google.com/store/apps/details?id=com.Codnet.ChipdotIO
+App Url (Google Play Store): [https://play.google.com/store/apps/details?id=com.Codnet.ChipdotIO](https://play.google.com/store/apps/details?id=network.synthetic.simulator)
 
 [Click here to view Privacy Policy](PrivacyPolicy.md)
 
